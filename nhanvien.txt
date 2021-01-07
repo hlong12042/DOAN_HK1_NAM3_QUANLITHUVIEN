@@ -1,0 +1,4 @@
+NV2,Linh kute,20,Nữ,TP.HCM,123,123,true
+NV4604,A,21,Nữ,TP.HCM,1,1,true
+NV5388,Hoàng Long,21,Nam,Tp.Hồ Chí Minh,hlong1204,123,false
+NV8533,Long,21,Nam,Tp Hồ Chí Minh,hlong,123,true
